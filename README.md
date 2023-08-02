@@ -1,7 +1,7 @@
 ## ✍️ Projeto Github Blog
 
 <div align="center">
-<img alt="Capa do projeto" src="public/blog.gif" width="50%">
+<img alt="Capa do projeto" src="public/blog.gif" width="80%">
 </div>
 
 ## 💻 Projeto
